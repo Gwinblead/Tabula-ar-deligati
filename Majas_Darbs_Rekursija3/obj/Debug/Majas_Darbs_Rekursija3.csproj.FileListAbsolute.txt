@@ -1,0 +1,10 @@
+C:\Users\Aigars\source\repos\Majas_Darbs_Rekursija3\bin\Debug\Majas_Darbs_Rekursija3.exe.config
+C:\Users\Aigars\source\repos\Majas_Darbs_Rekursija3\bin\Debug\Majas_Darbs_Rekursija3.exe
+C:\Users\Aigars\source\repos\Majas_Darbs_Rekursija3\bin\Debug\Majas_Darbs_Rekursija3.pdb
+C:\Users\Aigars\source\repos\Majas_Darbs_Rekursija3\obj\Debug\Majas_Darbs_Rekursija3.csprojAssemblyReference.cache
+C:\Users\Aigars\source\repos\Majas_Darbs_Rekursija3\obj\Debug\Majas_Darbs_Rekursija3.Form1.resources
+C:\Users\Aigars\source\repos\Majas_Darbs_Rekursija3\obj\Debug\Majas_Darbs_Rekursija3.Properties.Resources.resources
+C:\Users\Aigars\source\repos\Majas_Darbs_Rekursija3\obj\Debug\Majas_Darbs_Rekursija3.csproj.GenerateResource.cache
+C:\Users\Aigars\source\repos\Majas_Darbs_Rekursija3\obj\Debug\Majas_Darbs_Rekursija3.csproj.CoreCompileInputs.cache
+C:\Users\Aigars\source\repos\Majas_Darbs_Rekursija3\obj\Debug\Majas_Darbs_Rekursija3.exe
+C:\Users\Aigars\source\repos\Majas_Darbs_Rekursija3\obj\Debug\Majas_Darbs_Rekursija3.pdb
